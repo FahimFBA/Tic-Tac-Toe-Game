@@ -1,5 +1,5 @@
 <h1 align="center">
- # Tic Tac Toe Made with C Language
+  Tic Tac Toe Made with C Language
   
   </h1>
 <hr>
